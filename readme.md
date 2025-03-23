@@ -13,6 +13,7 @@ uv run server.py
 npx @modelcontextprotocol/inspector uv run $(PWD)/server.py
 ```
 
+```json
 # /Users/YOUR_USERNAME/Library/Application Support/Claude/claude_desktop_config.json
 {
   "mcpServers": {
@@ -27,6 +28,7 @@ npx @modelcontextprotocol/inspector uv run $(PWD)/server.py
       }
   }
 }
+```
 
 ## Test
 
